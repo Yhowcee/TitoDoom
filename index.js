@@ -1,15 +1,9 @@
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+         
+GIT : https://github.com/Yhowcee/TitoDoom
+  DISCORD SERVER : https://discord.gg/paradoxgator
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by Doom
  * **********************************************
  */
 
@@ -31,8 +25,8 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Listening to DOOM: http://localhost:${port}`);
+  console.log(`🔗 Powered By DOOM`);
 });
 
 
@@ -53,17 +47,11 @@ async function login() {
 }
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+         
+GIT : https://github.com/Yhowcee/TitoDoom
+  DISCORD SERVER : https://discord.gg/paradoxgator
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by Doom
  * **********************************************
  */
 
@@ -104,16 +92,10 @@ client.once('ready', () => {
 login();
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+         
+GIT : https://github.com/Yhowcee/TitoDoom
+  DISCORD SERVER : https://discord.gg/paradoxgator
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by Doom
  * **********************************************
  */
